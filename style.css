@@ -1,0 +1,42 @@
+*{
+    margin: 0px;
+}
+#main{
+    background-image: url(img/bg.jpg);
+    background-size: cover;
+    /* background-position: center; */
+}
+#nav{
+    background-color: white;
+}
+a{
+    text-decoration: none !important;
+}
+#gray{
+    color: gray !important;
+    font-size: 12px;
+    font-weight: 700;
+}
+#mail{
+    color: black !important;
+}
+i{
+    font-size: 24px !important;
+    color: black;
+}
+.home{
+    color: #FD4C82 !important;
+}
+.btn1{
+   background-color:#FD4C82 !important;
+   border: none;
+   border-radius: 5px;
+   height: 50px;
+   color: #fff;
+}
+#h1{
+    border: 1px solid black;
+    font-size: 44pt;
+    width: 500px;
+    font-weight: 700;
+}
